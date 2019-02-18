@@ -367,7 +367,7 @@ header .logo {
 @media (max-width: 500px) {
   .main-content .top-content .text-content {
     padding-bottom: 40px;
-    width: 10%;
+    width: 100%;
   }
 }
 
