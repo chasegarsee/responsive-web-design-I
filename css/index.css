@@ -295,6 +295,13 @@ header .logo {
   padding: 0px 75px;
 }
 
+@media (max-width: 500px) {
+  .cta .cta-text {
+    font-size: 60px;
+    margin-top: 120px;
+  }
+}
+
 .cta .cta-text button {
   background: white;
   vertical-align: top;
